@@ -1,4 +1,8 @@
 $(document).ready(function () {
-    var headings = $('h2');
-    headings.last().html('I’m Jared East, and I’m learning jQuery!');
+    var paragraphs = $('p');
+    paragraphs.css({
+        color: 'red',
+        fontWeight: 'bold',
+        'background-color': 'black'
+    });
 });
