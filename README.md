@@ -1,8 +1,8 @@
-#Homework - Event Listeners
+#Homework - jQuery
 
 ##Github
 	
-[Github Repository](https://github.com/jeast88/hw_listeners_East_Jared.git)
+[Github Repository](https://github.com/jeast88/hw_jquery_lastname_firstname.git)
 
 
 
